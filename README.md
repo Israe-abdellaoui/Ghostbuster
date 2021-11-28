@@ -1,1 +1,2 @@
 # Ghostbuster
+In this project, we will have a ghost placed in a box of a grid; we should know on which box he is placed. If we are far from the ghost, the box that we clicked on turns green or yellow; if we are getting closer, the box should take the color orange or red. Each time we click the probabilities of the other boxes changes because we have new information (color). We decide when to bust the ghost whenever we feel ready, and then either we lose or we win.
